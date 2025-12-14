@@ -203,7 +203,3 @@ This project addresses the important issue of hate speech detection while being 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Email**: mitashshah@gmail.com
-- **GitHub**: [Mitash0404](https://github.com/Mitash0404)
