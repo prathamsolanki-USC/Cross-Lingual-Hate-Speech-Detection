@@ -7,6 +7,8 @@
 
 A comprehensive machine learning system for detecting hate speech across multiple languages using state-of-the-art transformer models and zero-shot learning techniques.
 
+Built a cross-lingual hate speech detection system using XLM-RoBERTa with zero-shot learning. Integrated hate, offensive, and sentiment classification via multi-task learning, boosting performance on low-resource languages. Achieved a Macro F1 score of 0.79 on Hindi, outperforming baselines.
+
 ## 🚀 Project Overview
 
 This project implements cross-lingual hate speech detection across 6 languages (English, Hindi, Marathi, Bangla, German, and Nepali) using advanced transformer architectures including XLM-RoBERTa and mBERT. The system achieves state-of-the-art performance through innovative zero-shot learning and fine-tuning approaches, with particular focus on cultural and linguistic nuances in hate speech detection.
@@ -205,5 +207,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: mitashshah@gmail.com
 - **GitHub**: [Mitash0404](https://github.com/Mitash0404)
-
-
